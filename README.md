@@ -3,9 +3,11 @@ Hi 👋, I'm Birsen,
 I am Data Scientist Candidate trying to learn all relevant things about data science and a participant at Miuul/VBO Data Science Bootcamp. I got some training from different courses about Python, SQL, Tableau, Streamlit and continue to improve myself making some different projects.
 
 
-👨‍💻 Python. 
-⚡ Data Science, Machine Learning. 
-🌱 Artifical Intelligence World. 
+👨‍💻 Python
+
+⚡ Data Science, Machine Learning
+
+🌱 Artifical Intelligence World  
 
 📫 How to reach me: brsnbas@gmail.com
 
