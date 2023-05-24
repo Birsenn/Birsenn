@@ -1,12 +1,10 @@
 Hi 👋, I'm Birsen,
 
-I am Data Scientist Candidate trying to learn all relevant things about data science and a participant at Miuul/VBO Data Science Bootcamp. I got some training from different courses about Python, SQL, Streamlit and continue to improve myself making some different projects.
+I am Data Scientist Candidate trying to learn all relevant things about data science and a participant at Miuul/VBO Data Science Bootcamp. I got some training from different courses about Python, SQL, Tableau, Streamlit and continue to improve myself making some different projects.
 
 
-👨‍💻 Python
-
-⚡ Data Science, Machine Learning
-
+👨‍💻 Python\n
+⚡ Data Science, Machine Learning\n
 🌱 Artifical Intelligence World
 
 📫 How to reach me: brsnbas@gmail.com
@@ -14,10 +12,10 @@ I am Data Scientist Candidate trying to learn all relevant things about data sci
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/birsen bayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birsen bayat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/birsenbayat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birsen bayat" height="30" width="40" /></a>
 <a href="https://medium.com/@birsenba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@birsenba" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/birsen bayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="birsen bayat" height="30" width="40" /></a>
-<a href="https://discord.gg/Birsen Bayat#4780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Birsen Bayat#4780" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/brsnbas?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="birsen bayat" height="30" width="40" /></a>
+<a href="https://discord.gg/http://discord.gg/NcDEt8tH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Birsen Bayat#4780" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
