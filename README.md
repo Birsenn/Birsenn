@@ -1,6 +1,7 @@
 Hi 👋, I'm Birsen,
 
-I am Data Scientist Candidate trying to learn all relevant things about data science and a participant at Miuul/VBO Data Science Bootcamp. I got some training from different courses about Python, SQL, Tableau, Streamlit and continue to improve myself making some different projects.
+I am very curious Junior Data Scientist trying to learn all relevant things about data science to expand my skillset and becoming an expert in data science technology. I am a participant at Miuul/VBO Data Science Bootcamp for now. I have got some training from different courses about Python, SQL, Tableau, Streamlit and continue to improve myself making some different projects. Diving into the datasets, researching the literature, improving the machine learning models, negotiating the matters, and learning a new technologies for every minute keeps me alive. One of the best things for me is to constantly work on something that excites me and broaden my perspective.
+
 
 
 👨‍💻 Python <br/>
