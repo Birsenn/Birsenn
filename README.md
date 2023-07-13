@@ -7,6 +7,7 @@ I am very curious Junior Data Scientist trying to learn all relevant things abou
 👨‍💻 Python <br/>
 ⚡ Data Science, Machine Learning <br/>
 🌱 Artifical Intelligence World <br/>
+👥 CRM Analytics: RFM, BG/NBD Model & Gamma Gamma Model <br/>
 📫 How to reach me: brsnbas@gmail.com
 
 
