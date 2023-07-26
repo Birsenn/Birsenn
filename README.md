@@ -4,13 +4,13 @@ I am very curious Junior Data Scientist trying to learn all relevant things abou
 
 
 
-👨‍💻 Python <br/>
-🌱 Data Science, Machine Learning <br/>
-🦾 Artifical Intelligence World <br/>
-👥 CRM Analytics: RFM, BG/NBD Model & Gamma Gamma Model <br/>
-📈 A/B Testing <br/>
-🗣️ Recommendation Systems: Association Rule Based, Item Based, User Based, Hybrid Recommendation <br/>
-📫 How to reach me: brsnbas@gmail.com
+👨‍💻  Python <br/>
+🌱  Data Science, Machine Learning <br/>
+🦾  Artifical Intelligence World <br/>
+👥  CRM Analytics: RFM, BG/NBD Model & Gamma Gamma Model <br/>
+📈  A/B Testing <br/>
+🗣️  Recommendation Systems: Association Rule Based, Item Based, User Based, Hybrid Recommendation <br/>
+📫  How to reach me: brsnbas@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
